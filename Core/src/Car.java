@@ -22,7 +22,6 @@ public class Car {
         this.mpg = mpg;
         this.cost = cost;
         this.salesPrice = salesPrice;
-
     }
 
     // Accessor Methods
